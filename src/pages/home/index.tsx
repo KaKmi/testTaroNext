@@ -20,6 +20,10 @@ const HomePage: React.FC = () => {
     {
       url:'/pages/reacthooks/todomvc/index',
       title:'TODO-MVC'
+    },
+    {
+      url:'/pages/virtuallist/index',
+      title:'虚拟列表'
     }
   ]
   function navigatorToDemo(navigatorInfo){

@@ -1,0 +1,8 @@
+.ListItemOdd{
+  height: 50px;
+  background-color: #af5b5e;
+}
+.ListItemEven{
+  height: 50px;
+  background-color: #5f1c1f;
+}

@@ -1,3 +1,3 @@
 export default {
-  navigationBarTitleText: 'react-hooks演示'
+  navigationBarTitleText: 'Taro长列表演示'
 }

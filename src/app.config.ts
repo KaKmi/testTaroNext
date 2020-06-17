@@ -2,7 +2,8 @@ export default {
   pages: [
     'pages/home/index',
     'pages/reacthooks/index',
-    'pages/reacthooks/todomvc/index'
+    'pages/reacthooks/todomvc/index',
+    'pages/virtuallist/index'
   ],
   // subpackages: [
   //   {
