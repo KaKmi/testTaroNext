@@ -6,7 +6,7 @@ module.exports = {
   },
   mini: {
     prerender: {
-      match: 'pages/reacthooks/**',
+      match: 'pages/home/**',
     }
   },
   h5: {

@@ -1,17 +1,10 @@
-import React, {useCallback, useState} from 'react'
+import React from 'react'
 import Taro from '@tarojs/taro'
 import { AtList, AtListItem } from "taro-ui"  // taro-ui
 import './index.css'
 
 const HomePage: React.FC = () => {
 
-  const [counter,setCounter] = useState(0)
-  const callBack= useCallback((number)=>{
-      setCounter(number)
-  },[counter])
-  console.log(callBack)
-  // callBack(1)
-  // console.log(counter)
   const navs = [
     {
       url:'/pages/reacthooks/index',

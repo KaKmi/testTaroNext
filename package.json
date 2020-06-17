@@ -34,6 +34,8 @@
   "author": "",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
+    "@saturn/auth": "file:../saas-fe-saturn-auth",
+    "@saturn/utils": "file:../saas-fe-saturn-utils",
     "@tarojs/components": "3.0.0-rc.3",
     "@tarojs/react": "3.0.0-rc.3",
     "@tarojs/runtime": "3.0.0-rc.3",
