@@ -10,7 +10,7 @@ function FilterLink ({ filter }) {
   return (
     <Text
       className={classnames({ selected: filter === visibilityFilter, 'filters-link': true })}
-      style={{ cursor: 'pointer' }}
+      style=\{{ cursor: 'pointer' }}
       onClick={() => setVisibilityFilter(filter)}
     >
       {filter}
